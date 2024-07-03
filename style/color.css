@@ -10,3 +10,8 @@ p{
     text-align: center;
     background-color: blue;
 }
+div{
+    background-color: firebrick;
+    padding: 10px;
+    margin-bottom: 10px;
+}
